@@ -1,0 +1,8 @@
+{
+"/RESTRO-APP/*":{
+    "target":"http://localhost:2022",
+    "secure":false,
+    "changeOrigin":true
+}
+
+}
